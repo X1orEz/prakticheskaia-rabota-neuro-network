@@ -23,7 +23,10 @@
     - `Dropout(0.3)` — регуляризация.
     - **Выходной слой:** `Dense(75, activation='softmax')` — распределение вероятностей по 75 видам бабочек.
 
-**Итоговое количество параметров:**   
+**Итоговое количество параметров:** 9,694,539
 
 ---
 <img width="1310" height="762" alt="image" src="https://github.com/user-attachments/assets/56e3c5c2-8135-46f5-9f55-9be965a0bd42" />
+<img width="758" height="664" alt="Снимок экрана 2026-04-19 165441" src="https://github.com/user-attachments/assets/16c5486e-d568-48bb-b5c9-0491bc5ea9ee" />
+<img width="664" height="507" alt="Снимок экрана 2026-04-19 165909" src="https://github.com/user-attachments/assets/4124d1fe-c1e2-4e8a-8fc0-9f83f5ee7962" />
+
